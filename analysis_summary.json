@@ -1,0 +1,1418 @@
+{
+  "primary": {
+    "n": 33,
+    "links": {
+      "L1": {
+        "E": 19,
+        "P": 14,
+        "NPD": 0
+      },
+      "L2": {
+        "E": 33,
+        "P": 0,
+        "NPD": 0
+      },
+      "L3": {
+        "E": 33,
+        "P": 0,
+        "NPD": 0
+      },
+      "L4": {
+        "E": 11,
+        "P": 22,
+        "NPD": 0
+      },
+      "L5": {
+        "E": 15,
+        "P": 10,
+        "NPD": 8
+      },
+      "L6": {
+        "E": 13,
+        "P": 12,
+        "NPD": 8
+      },
+      "L7": {
+        "E": 11,
+        "P": 12,
+        "NPD": 10
+      },
+      "L8": {
+        "E": 9,
+        "P": 13,
+        "NPD": 11
+      }
+    },
+    "downstream_profiles": {
+      "All E": 8,
+      "No E": 18,
+      "Mixed": 7
+    },
+    "first_non_explicit": {
+      "L5": 18,
+      "L6": 2,
+      "L7": 3,
+      "L8": 2,
+      "All E": 8
+    }
+  },
+  "record_linked": {
+    "n": 33,
+    "links": {
+      "L5": {
+        "E": 11,
+        "P": 14,
+        "NPD": 8
+      },
+      "L6": {
+        "E": 11,
+        "P": 14,
+        "NPD": 8
+      },
+      "L7": {
+        "E": 8,
+        "P": 15,
+        "NPD": 10
+      },
+      "L8": {
+        "E": 6,
+        "P": 16,
+        "NPD": 11
+      }
+    },
+    "downstream_profiles": {
+      "All E": 6,
+      "No E": 22,
+      "Mixed": 5
+    },
+    "first_non_explicit": {
+      "L5": 22,
+      "L6": 0,
+      "L7": 3,
+      "L8": 2,
+      "All E": 6
+    }
+  },
+  "strata": {
+    "activation_source_group": {
+      "Direct institution": {
+        "primary": {
+          "n": 19,
+          "links": {
+            "L1": {
+              "E": 19,
+              "P": 0,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 19,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 19,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 9,
+              "P": 10,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 8,
+              "P": 6,
+              "NPD": 5
+            },
+            "L6": {
+              "E": 6,
+              "P": 8,
+              "NPD": 5
+            },
+            "L7": {
+              "E": 4,
+              "P": 9,
+              "NPD": 6
+            },
+            "L8": {
+              "E": 3,
+              "P": 9,
+              "NPD": 7
+            }
+          },
+          "downstream_profiles": {
+            "All E": 2,
+            "No E": 11,
+            "Mixed": 6
+          },
+          "first_non_explicit": {
+            "L5": 11,
+            "L6": 2,
+            "L7": 3,
+            "L8": 1,
+            "All E": 2
+          }
+        },
+        "record_linked": {
+          "n": 19,
+          "links": {
+            "L5": {
+              "E": 6,
+              "P": 8,
+              "NPD": 5
+            },
+            "L6": {
+              "E": 6,
+              "P": 8,
+              "NPD": 5
+            },
+            "L7": {
+              "E": 3,
+              "P": 10,
+              "NPD": 6
+            },
+            "L8": {
+              "E": 2,
+              "P": 10,
+              "NPD": 7
+            }
+          },
+          "downstream_profiles": {
+            "All E": 2,
+            "No E": 13,
+            "Mixed": 4
+          },
+          "first_non_explicit": {
+            "L5": 13,
+            "L6": 0,
+            "L7": 3,
+            "L8": 1,
+            "All E": 2
+          }
+        }
+      },
+      "Provider / professional source": {
+        "primary": {
+          "n": 14,
+          "links": {
+            "L1": {
+              "E": 0,
+              "P": 14,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 14,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 14,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 2,
+              "P": 12,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 7,
+              "P": 4,
+              "NPD": 3
+            },
+            "L6": {
+              "E": 7,
+              "P": 4,
+              "NPD": 3
+            },
+            "L7": {
+              "E": 7,
+              "P": 3,
+              "NPD": 4
+            },
+            "L8": {
+              "E": 6,
+              "P": 4,
+              "NPD": 4
+            }
+          },
+          "downstream_profiles": {
+            "All E": 6,
+            "No E": 7,
+            "Mixed": 1
+          },
+          "first_non_explicit": {
+            "L5": 7,
+            "L6": 0,
+            "L7": 0,
+            "L8": 1,
+            "All E": 6
+          }
+        },
+        "record_linked": {
+          "n": 14,
+          "links": {
+            "L5": {
+              "E": 5,
+              "P": 6,
+              "NPD": 3
+            },
+            "L6": {
+              "E": 5,
+              "P": 6,
+              "NPD": 3
+            },
+            "L7": {
+              "E": 5,
+              "P": 5,
+              "NPD": 4
+            },
+            "L8": {
+              "E": 4,
+              "P": 6,
+              "NPD": 4
+            }
+          },
+          "downstream_profiles": {
+            "All E": 4,
+            "No E": 9,
+            "Mixed": 1
+          },
+          "first_non_explicit": {
+            "L5": 9,
+            "L6": 0,
+            "L7": 0,
+            "L8": 1,
+            "All E": 4
+          }
+        }
+      }
+    },
+    "function_cluster": {
+      "Other admissions functions": {
+        "primary": {
+          "n": 9,
+          "links": {
+            "L1": {
+              "E": 7,
+              "P": 2,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 9,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 9,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 4,
+              "P": 5,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 4,
+              "P": 4,
+              "NPD": 1
+            },
+            "L6": {
+              "E": 2,
+              "P": 6,
+              "NPD": 1
+            },
+            "L7": {
+              "E": 2,
+              "P": 5,
+              "NPD": 2
+            },
+            "L8": {
+              "E": 2,
+              "P": 5,
+              "NPD": 2
+            }
+          },
+          "downstream_profiles": {
+            "All E": 1,
+            "No E": 5,
+            "Mixed": 3
+          },
+          "first_non_explicit": {
+            "L5": 5,
+            "L6": 2,
+            "L7": 1,
+            "L8": 0,
+            "All E": 1
+          }
+        },
+        "record_linked": {
+          "n": 9,
+          "links": {
+            "L5": {
+              "E": 1,
+              "P": 7,
+              "NPD": 1
+            },
+            "L6": {
+              "E": 1,
+              "P": 7,
+              "NPD": 1
+            },
+            "L7": {
+              "E": 0,
+              "P": 7,
+              "NPD": 2
+            },
+            "L8": {
+              "E": 0,
+              "P": 7,
+              "NPD": 2
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 8,
+            "Mixed": 1
+          },
+          "first_non_explicit": {
+            "L5": 8,
+            "L6": 0,
+            "L7": 1,
+            "L8": 0,
+            "All E": 0
+          }
+        }
+      },
+      "Transcript / academic record": {
+        "primary": {
+          "n": 24,
+          "links": {
+            "L1": {
+              "E": 12,
+              "P": 12,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 24,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 24,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 7,
+              "P": 17,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 11,
+              "P": 6,
+              "NPD": 7
+            },
+            "L6": {
+              "E": 11,
+              "P": 6,
+              "NPD": 7
+            },
+            "L7": {
+              "E": 9,
+              "P": 7,
+              "NPD": 8
+            },
+            "L8": {
+              "E": 7,
+              "P": 8,
+              "NPD": 9
+            }
+          },
+          "downstream_profiles": {
+            "All E": 7,
+            "No E": 13,
+            "Mixed": 4
+          },
+          "first_non_explicit": {
+            "L5": 13,
+            "L6": 0,
+            "L7": 2,
+            "L8": 2,
+            "All E": 7
+          }
+        },
+        "record_linked": {
+          "n": 24,
+          "links": {
+            "L5": {
+              "E": 10,
+              "P": 7,
+              "NPD": 7
+            },
+            "L6": {
+              "E": 10,
+              "P": 7,
+              "NPD": 7
+            },
+            "L7": {
+              "E": 8,
+              "P": 8,
+              "NPD": 8
+            },
+            "L8": {
+              "E": 6,
+              "P": 9,
+              "NPD": 9
+            }
+          },
+          "downstream_profiles": {
+            "All E": 6,
+            "No E": 14,
+            "Mixed": 4
+          },
+          "first_non_explicit": {
+            "L5": 14,
+            "L6": 0,
+            "L7": 2,
+            "L8": 2,
+            "All E": 6
+          }
+        }
+      }
+    },
+    "country": {
+      "Australia": {
+        "primary": {
+          "n": 1,
+          "links": {
+            "L1": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        },
+        "record_linked": {
+          "n": 1,
+          "links": {
+            "L5": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        }
+      },
+      "Canada": {
+        "primary": {
+          "n": 1,
+          "links": {
+            "L1": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L6": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L7": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L8": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        },
+        "record_linked": {
+          "n": 1,
+          "links": {
+            "L5": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L6": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L7": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            },
+            "L8": {
+              "E": 0,
+              "P": 0,
+              "NPD": 1
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        }
+      },
+      "Singapore": {
+        "primary": {
+          "n": 1,
+          "links": {
+            "L1": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 1,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        },
+        "record_linked": {
+          "n": 1,
+          "links": {
+            "L5": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 0,
+              "P": 1,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 1,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 1,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        }
+      },
+      "United Kingdom": {
+        "primary": {
+          "n": 2,
+          "links": {
+            "L1": {
+              "E": 1,
+              "P": 1,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 2,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 2,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 0,
+              "P": 2,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 2,
+              "P": 0,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 1,
+              "P": 1,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 1,
+              "P": 1,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 1,
+              "P": 1,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 1,
+            "No E": 0,
+            "Mixed": 1
+          },
+          "first_non_explicit": {
+            "L5": 0,
+            "L6": 1,
+            "L7": 0,
+            "L8": 0,
+            "All E": 1
+          }
+        },
+        "record_linked": {
+          "n": 2,
+          "links": {
+            "L5": {
+              "E": 0,
+              "P": 2,
+              "NPD": 0
+            },
+            "L6": {
+              "E": 0,
+              "P": 2,
+              "NPD": 0
+            },
+            "L7": {
+              "E": 0,
+              "P": 2,
+              "NPD": 0
+            },
+            "L8": {
+              "E": 0,
+              "P": 2,
+              "NPD": 0
+            }
+          },
+          "downstream_profiles": {
+            "All E": 0,
+            "No E": 2,
+            "Mixed": 0
+          },
+          "first_non_explicit": {
+            "L5": 2,
+            "L6": 0,
+            "L7": 0,
+            "L8": 0,
+            "All E": 0
+          }
+        }
+      },
+      "United States": {
+        "primary": {
+          "n": 28,
+          "links": {
+            "L1": {
+              "E": 16,
+              "P": 12,
+              "NPD": 0
+            },
+            "L2": {
+              "E": 28,
+              "P": 0,
+              "NPD": 0
+            },
+            "L3": {
+              "E": 28,
+              "P": 0,
+              "NPD": 0
+            },
+            "L4": {
+              "E": 10,
+              "P": 18,
+              "NPD": 0
+            },
+            "L5": {
+              "E": 13,
+              "P": 8,
+              "NPD": 7
+            },
+            "L6": {
+              "E": 12,
+              "P": 9,
+              "NPD": 7
+            },
+            "L7": {
+              "E": 10,
+              "P": 9,
+              "NPD": 9
+            },
+            "L8": {
+              "E": 8,
+              "P": 10,
+              "NPD": 10
+            }
+          },
+          "downstream_profiles": {
+            "All E": 7,
+            "No E": 15,
+            "Mixed": 6
+          },
+          "first_non_explicit": {
+            "L5": 15,
+            "L6": 1,
+            "L7": 3,
+            "L8": 2,
+            "All E": 7
+          }
+        },
+        "record_linked": {
+          "n": 28,
+          "links": {
+            "L5": {
+              "E": 11,
+              "P": 10,
+              "NPD": 7
+            },
+            "L6": {
+              "E": 11,
+              "P": 10,
+              "NPD": 7
+            },
+            "L7": {
+              "E": 8,
+              "P": 11,
+              "NPD": 9
+            },
+            "L8": {
+              "E": 6,
+              "P": 12,
+              "NPD": 10
+            }
+          },
+          "downstream_profiles": {
+            "All E": 6,
+            "No E": 17,
+            "Mixed": 5
+          },
+          "first_non_explicit": {
+            "L5": 17,
+            "L6": 0,
+            "L7": 3,
+            "L8": 2,
+            "All E": 6
+          }
+        }
+      }
+    }
+  },
+  "countries": {
+    "United States": 28,
+    "Singapore": 1,
+    "Australia": 1,
+    "United Kingdom": 2,
+    "Canada": 1
+  },
+  "all_eight_primary_explicit_ids": [
+    "A18"
+  ],
+  "baseline_ena_ids": [
+    "A24",
+    "A31",
+    "A32"
+  ],
+  "record_linked_changes": [
+    {
+      "stable_id": "A08",
+      "link": "L5",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A08",
+      "link": "L7",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A08",
+      "link": "L8",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A14",
+      "link": "L5",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A14",
+      "link": "L6",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A14",
+      "link": "L7",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A14",
+      "link": "L8",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A28",
+      "link": "L5",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A29",
+      "link": "L5",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A29",
+      "link": "L6",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A29",
+      "link": "L7",
+      "primary": "E",
+      "record_linked": "P"
+    },
+    {
+      "stable_id": "A29",
+      "link": "L8",
+      "primary": "E",
+      "record_linked": "P"
+    }
+  ],
+  "record_linked_changed_case_count": 4,
+  "historical_to_revised_corrections": [
+    {
+      "stable_id": "A03",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Record-linked",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Record-linked",
+      "link": "L6",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Record-linked",
+      "link": "L7",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A03",
+      "analysis": "Record-linked",
+      "link": "L8",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A04",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A04",
+      "analysis": "Record-linked",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A06",
+      "analysis": "Record-linked",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A06",
+      "analysis": "Record-linked",
+      "link": "L6",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A06",
+      "analysis": "Record-linked",
+      "link": "L7",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A06",
+      "analysis": "Record-linked",
+      "link": "L8",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Record-linked",
+      "link": "L5",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Record-linked",
+      "link": "L6",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Record-linked",
+      "link": "L7",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A07",
+      "analysis": "Record-linked",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A08",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A09",
+      "analysis": "Primary",
+      "link": "L1",
+      "before": "P",
+      "after": "E"
+    },
+    {
+      "stable_id": "A15",
+      "analysis": "Primary",
+      "link": "L1",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A17",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A17",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A17",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A17",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Primary",
+      "link": "L4",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Record-linked",
+      "link": "L5",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Record-linked",
+      "link": "L6",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Record-linked",
+      "link": "L7",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A20",
+      "analysis": "Record-linked",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A21",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A21",
+      "analysis": "Record-linked",
+      "link": "L8",
+      "before": "NPD",
+      "after": "P"
+    },
+    {
+      "stable_id": "A22",
+      "analysis": "Primary",
+      "link": "L4",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A26",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A26",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A26",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A26",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A27",
+      "analysis": "Primary",
+      "link": "L1",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A27",
+      "analysis": "Primary",
+      "link": "L5",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A27",
+      "analysis": "Primary",
+      "link": "L6",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A27",
+      "analysis": "Primary",
+      "link": "L7",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A27",
+      "analysis": "Primary",
+      "link": "L8",
+      "before": "E",
+      "after": "P"
+    },
+    {
+      "stable_id": "A29",
+      "analysis": "Primary",
+      "link": "L1",
+      "before": "E",
+      "after": "P"
+    }
+  ],
+  "reproducibility_limit": "Two dated 19 September search-pass/query-family summaries were recovered from the historical register and preserved separately as historical_search_passes.csv. The full 317-row candidate register, individual executed queries, hit histories and complete exclusion records were not located. No complete search-frame reconstruction is claimed."
+}
