@@ -43,7 +43,7 @@ def main():
     required = set(CSV_ROWS) | {
         "analysis_summary.json", "generate_figures.py", "verify_reproducibility.py",
         "README.md", "DATA_DICTIONARY.md", "RIGHTS_NOTICE.md",
-        "requirements.txt", "CITATION.cff",
+        "requirements.txt", "CITATION.cff", "LICENSE_CODE_MIT.txt", "LICENSE_DATA_CC_BY_4.0.md",
     }
     require(set(hashes) == required, "Manifest differs from the release allowlist")
 

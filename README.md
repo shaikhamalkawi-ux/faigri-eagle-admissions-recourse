@@ -4,11 +4,13 @@ Companion to *Human Review Is Not Recourse: Auditing Challenge and Remedy in Ope
 
 Package version: 1.0.0. Manuscript snapshot: R30-2026-09-26. The evidence states and calculations are unchanged from the manuscript's final local candidate dated 26 September 2026.
 
-## Availability and citation status
+## Repository and citation
 
-The repository at <https://github.com/shaikhamalkawi-ux/faigri-eagle-admissions-recourse> is private. The Zenodo record at <https://zenodo.org/uploads/22975754> is an unpublished draft. The identifier `10.5281/zenodo.22975754` is reserved only: it is not a registered, published DOI and must not yet be cited as a public deposit. This package is not currently claimed to be publicly available.
+Repository: <https://github.com/shaikhamalkawi-ux/faigri-eagle-admissions-recourse>.
 
-`CITATION.cff` supplies the title and five authors in the manuscript's locked order. It deliberately contains no DOI. A public deposit's creator or repository-owner metadata can identify authors; these links are not anonymous reviewer-access links. No journal submission or manuscript preprint is included in this deposit.
+Version 1.0.0 archive: <https://doi.org/10.5281/zenodo.22975754>.
+
+`CITATION.cff` supplies the title, version, DOI, release date, and five authors in manuscript order. Please cite this data and calculation package when using it. The deposit is not a journal article or manuscript preprint, and its release does not imply journal acceptance. Its creator and repository-owner metadata identify authors, so these are not anonymous reviewer-access links.
 
 ## Contents
 
@@ -29,8 +31,14 @@ All package files are in one directory. CSV files use UTF-8, a header row, and s
 | `requirements.txt` | Tested calculation dependencies |
 | `verify_reproducibility.py` | Integrity, record-count, and exact calculation-output checks |
 | `SHA256SUMS.txt` | SHA-256 hashes of all other package files |
-| `CITATION.cff` | Author and package citation metadata, without an unpublished DOI |
-| `RIGHTS_NOTICE.md` | No reuse license selected; third-party rights not transferred |
+| `CITATION.cff` | Author, version, date, and DOI citation metadata |
+| `RIGHTS_NOTICE.md` | License scopes and third-party exceptions |
+| `LICENSE_CODE_MIT.txt` | MIT license for the two Python scripts |
+| `LICENSE_DATA_CC_BY_4.0.md` | CC BY 4.0 grant for original data and documentation, excluding third-party material |
+
+## Licenses
+
+`generate_figures.py` and `verify_reproducibility.py` are licensed under the [MIT License](https://opensource.org/license/mit). The authors' original data compilation, interpretations, and other package documentation are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Brief quoted source excerpts and other third-party material are excluded from these grants and remain subject to their respective rights. This is a component-specific allocation, not a choice to apply either license to any file. See `RIGHTS_NOTICE.md` and the two license files for scope and terms.
 
 ## Reproduce
 

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Citation metadata for this unpublished data and calculation package. No public DOI has been registered."
+message: "Please cite this data and calculation package when using these materials."
 type: dataset
 title: "Human Review Is Not Recourse: Auditing Challenge and Remedy in Operational AI-Assisted University Admissions - Data and Calculation Package"
 authors:
@@ -14,8 +14,14 @@ authors:
   - family-names: "Muflehi"
     given-names: "Mohamad"
 version: "1.0.0"
+date-released: "2026-09-26"
+doi: "10.5281/zenodo.22975754"
+url: "https://doi.org/10.5281/zenodo.22975754"
 repository-code: "https://github.com/shaikhamalkawi-ux/faigri-eagle-admissions-recourse"
-abstract: "Case-level documentary evidence and executable calculations for 33 operational AI-assisted university-admissions pathways. Includes primary and record-linked states, dated source/population checks and correction ledgers. Private repository and unpublished deposit draft; no public availability or end-to-end discovery replication is claimed."
+license:
+  - "MIT"
+  - "CC-BY-4.0"
+abstract: "Case-level documentary evidence and executable calculations for 33 operational AI-assisted university-admissions pathways. Includes primary and record-linked states, dated source/population checks and correction ledgers. Python code is MIT-licensed; original data and documentation are CC BY 4.0, excluding third-party excerpts as detailed in RIGHTS_NOTICE.md. End-to-end replication of the historical discovery process is not claimed. This deposit does not imply journal acceptance."
 keywords:
   - "AI-assisted admissions"
   - "algorithmic recourse"
